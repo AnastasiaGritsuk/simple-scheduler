@@ -5,7 +5,7 @@ A library providing methods to schedule running of items, include ability to mea
 
 ## Installation
 
-  npm install simple-scheduler --save
+  npm install simple-scheduler
 
 ## Usage
 
