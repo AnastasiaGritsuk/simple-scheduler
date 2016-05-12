@@ -1,0 +1,18 @@
+{
+  "name": "simple-scheduler",
+  "version": "0.0.1",
+  "description": "It's a flexible jobs scheduler. It allows you to schedule running of items with interruption like for items array and for a single one.",
+  "main": "scheduler.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "scheduler"
+  ],
+  "author": "Anastasia Gritsuk <natikana22@gmail.com> (https://github.com/AnastasiaGritsuk)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
